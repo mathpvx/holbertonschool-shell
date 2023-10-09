@@ -1,0 +1,2 @@
+#!/bin/bash
+chown find -user guillaume vincent ./hello
