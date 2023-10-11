@@ -1,2 +1,2 @@
 #!/bin/bash
-set -- $BEST=School
+echo $myvar | alias BEST=School
