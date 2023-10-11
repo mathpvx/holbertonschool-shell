@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $myvar | alias BEST=School
+set BEST='school'
